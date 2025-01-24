@@ -1,0 +1,7 @@
+.aider*
+.env
+MyMvcApp/obj/MyMvcApp.csproj.nuget.dgspec.json
+MyMvcApp/obj/MyMvcApp.csproj.nuget.g.props
+MyMvcApp/obj/MyMvcApp.csproj.nuget.g.targets
+MyMvcApp/obj/project.assets.json
+MyMvcApp/obj/project.nuget.cache
